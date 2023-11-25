@@ -9,7 +9,7 @@ El mismo se divide en 5 carpetas, una para cada uno de los módulos de la materi
 -  **Portafolio BigData:** Screenshots sobre las herramientas utilizadas en el reto
 -  **Reto Datos:** Entregable del reto con información sobre las decisiones con respecto a BigData
 
-## 2. [Deep Learning]()
+## 2. [Deep Learning](https://github.com/sofireyesm1/Implementacion_IA2/tree/main/2.%20Deep%20Learning)
 - **Implementación DL:** Documento descriptivo sobre el modelo de Deep Learning implementado de forma individual.
 
 ## 3. [Natural Language Proceessing (NLP)](https://github.com/sofireyesm1/Implementacion_IA2/tree/main/3.%20Natural%20Language%20Processing%20NLP)
@@ -17,12 +17,8 @@ El mismo se divide en 5 carpetas, una para cada uno de los módulos de la materi
 
 ## 4. [Cómputo en la nube](https://github.com/sofireyesm1/Implementacion_IA2/tree/main/4.%20C%C3%B3mputo%20en%20la%20nube)
 - **Cloud Migration:** Actividad con situación problema de migrar una aplicación de comercio electrónico de una empresa a la nube.
-- **Diseño Cloud:** Actividad de diseño de una arquitectura cloud para una emrpesa.
 
 ## 5. [Estadística Avanzada](https://github.com/sofireyesm1/Implementacion_IA2/tree/main/5.%20Estad%C3%ADstica%20Avanzada)
-- **Actividad 1:** La normal multivariada
-- **Actividad 2:** Componentes principales
-- **Actividad 3:** Proceso Poisson
 - **Actividad 4:** Regresión Poisson
 - **Actividad 5:** Regresión Logística
 - **Actividad 7:** Series estacionarias
